@@ -5,5 +5,5 @@ get '/' do
 end
 
 get '/wyncode' do
-  "Hello World"
+  "Ok"
 end
